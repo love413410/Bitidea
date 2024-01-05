@@ -1,0 +1,13 @@
+{
+  "hash": "adc6258c",
+  "browserHash": "3936d328",
+  "optimized": {
+    "weixin-js-sdk": {
+      "src": "../../node_modules/weixin-js-sdk/index.js",
+      "file": "weixin-js-sdk.js",
+      "fileHash": "01253f02",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}

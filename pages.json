@@ -1,0 +1,104 @@
+{
+	"pages": [{
+		"path": "pages/tabbar/home",
+		"style": {}
+	}, {
+		"path": "pages/tabbar/draw",
+		"style": {}
+	}, {
+		"path": "pages/tabbar/app",
+		"style": {
+			"navigationStyle": "default"
+		}
+	}, {
+		"path": "pages/tabbar/my"
+	}, {
+		"path": "pages/tabbar/demo"
+	}, {
+		"path": "pages/home/gpt"
+	}, {
+		"path": "pages/draw/draw_record"
+	}, {
+		"path": "pages/draw/result"
+	}, {
+		"path": "pages/draw/my_like"
+	}, {
+		"path": "pages/draw/draw_deta"
+	}, {
+		"path": "pages/app/report"
+	}, {
+		"path": "pages/app/report_res"
+	}, {
+		"path": "pages/my/change"
+	}, {
+		"path": "pages/my/vip"
+	}, {
+		"path": "pages/my/recharge_integral"
+	}, {
+		"path": "pages/my/promotion"
+	}, {
+		"path": "pages/my/team"
+	}, {
+		"path": "pages/my/reward"
+	}, {
+		"path": "pages/my/withdrawal"
+	}, {
+		"path": "pages/my/invite"
+	}, {
+		"path": "pages/my/task"
+	}, {
+		"path": "pages/my/order"
+	}, {
+		"path": "pages/my/news"
+	}, {
+		"path": "pages/my/article"
+	}, {
+		"path": "pages/my/integral_log"
+	}, {
+		"path": "pages/my/news_deta"
+	}, {
+		"path": "pages/login/register"
+	}, {
+		"path": "pages/login/find_password"
+	}, {
+		"path": "pages/login/login"
+	}],
+	"tabBar": {
+		"color": "#666",
+		"selectedColor": "#1E4497",
+		"backgroundColor": "#121212",
+		"borderStyle": "white",
+		"list": [{
+				"pagePath": "pages/tabbar/home",
+				"text": "主页",
+				"iconPath": "static/images/tabbar1.png",
+				"selectedIconPath": "static/images/tabbar2.png"
+			},
+			{
+				"pagePath": "pages/tabbar/draw",
+				"text": "绘画",
+				"iconPath": "static/images/tabbar3.png",
+				"selectedIconPath": "static/images/tabbar4.png"
+			},
+			{
+				"pagePath": "pages/tabbar/app",
+				"text": "助手",
+				"iconPath": "static/images/tabbar5.png",
+				"selectedIconPath": "static/images/tabbar6.png"
+			},
+			{
+				"pagePath": "pages/tabbar/my",
+				"text": "我的",
+				"iconPath": "static/images/tabbar7.png",
+				"selectedIconPath": "static/images/tabbar8.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTitleText": "Bitidea",
+		"navigationStyle": "custom",
+		"navigationBarBackgroundColor": "#121212",
+		"navigationBarTextStyle": "#fff"
+	},
+	"uniIdRouter": {}
+}

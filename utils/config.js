@@ -1,0 +1,1 @@
+export const wechat = "https://ai.bitidea.cn/api/wechat/code";
